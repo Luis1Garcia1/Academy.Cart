@@ -107,6 +107,29 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Academy.Cart.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Academy.Cart.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Academy.Cart.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Academy.Cart.Application.dll": {}
+        }
+      },
+      "Academy.Cart.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Academy.Cart.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Academy.Cart.Domain.dll": {}
+        }
       }
     }
   },
@@ -473,10 +496,21 @@
         "swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "Academy.Cart.Application/1.0.0": {
+      "type": "project",
+      "path": "../Academy.Cart.Application/Academy.Cart.Application.csproj",
+      "msbuildProject": "../Academy.Cart.Application/Academy.Cart.Application.csproj"
+    },
+    "Academy.Cart.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Academy.Cart.Domain/Academy.Cart.Domain.csproj",
+      "msbuildProject": "../Academy.Cart.Domain/Academy.Cart.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Academy.Cart.Application >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 8.0.20",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
@@ -505,7 +539,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\LUISGARC\\OneDrive - Capgemini\\Documents\\VSCodeProjects\\Academy.Cart\\src\\Academy.Cart.Application\\Academy.Cart.Application.csproj": {
+              "projectPath": "C:\\Users\\LUISGARC\\OneDrive - Capgemini\\Documents\\VSCodeProjects\\Academy.Cart\\src\\Academy.Cart.Application\\Academy.Cart.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -551,7 +589,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
