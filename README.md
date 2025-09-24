@@ -2,7 +2,7 @@
 Microservicio en C# para la gestión del carrito de compras, incluyendo el agregado, actualizacion, eliminacion y vista de productos en el Carrito a comprar.
 
 Pasos para descargar el Repositorio
-1 En la Terminal de Git o de Windows estar ubicado en la carpeta en donde se desea descargar.
+1. En la Terminal de Git o de Windows estar ubicado en la carpeta en donde se desea descargar.
 2. Copiar el link del repositorio en la seccion de <>Code (HTTPS, SSH, GitHub CLI) o copiar URL del navegador.
 3. En la terminal de Git o Windows agregar el comando " git clone 'url copiada' ", luego dar Enter para correr el comando.
 
