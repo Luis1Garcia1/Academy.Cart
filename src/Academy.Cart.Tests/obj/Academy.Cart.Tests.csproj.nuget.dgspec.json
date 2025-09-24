@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LUISGARC\\OneDrive - Capgemini\\Documents\\VSCodeProjects\\Academy.Cart\\src\\Capgemini.Cart.Tests\\Capgemini.Cart.Tests.csproj": {}
+    "C:\\Users\\LUISGARC\\OneDrive - Capgemini\\Documents\\VSCodeProjects\\Academy.Cart\\src\\Academy.Cart.Tests\\Academy.Cart.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LUISGARC\\OneDrive - Capgemini\\Documents\\VSCodeProjects\\Academy.Cart\\src\\Capgemini.Cart.Tests\\Capgemini.Cart.Tests.csproj": {
+    "C:\\Users\\LUISGARC\\OneDrive - Capgemini\\Documents\\VSCodeProjects\\Academy.Cart\\src\\Academy.Cart.Tests\\Academy.Cart.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LUISGARC\\OneDrive - Capgemini\\Documents\\VSCodeProjects\\Academy.Cart\\src\\Capgemini.Cart.Tests\\Capgemini.Cart.Tests.csproj",
-        "projectName": "Capgemini.Cart.Tests",
-        "projectPath": "C:\\Users\\LUISGARC\\OneDrive - Capgemini\\Documents\\VSCodeProjects\\Academy.Cart\\src\\Capgemini.Cart.Tests\\Capgemini.Cart.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\LUISGARC\\OneDrive - Capgemini\\Documents\\VSCodeProjects\\Academy.Cart\\src\\Academy.Cart.Tests\\Academy.Cart.Tests.csproj",
+        "projectName": "Academy.Cart.Tests",
+        "projectPath": "C:\\Users\\LUISGARC\\OneDrive - Capgemini\\Documents\\VSCodeProjects\\Academy.Cart\\src\\Academy.Cart.Tests\\Academy.Cart.Tests.csproj",
         "packagesPath": "C:\\Users\\LUISGARC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LUISGARC\\OneDrive - Capgemini\\Documents\\VSCodeProjects\\Academy.Cart\\src\\Capgemini.Cart.Tests\\obj\\",
+        "outputPath": "C:\\Users\\LUISGARC\\OneDrive - Capgemini\\Documents\\VSCodeProjects\\Academy.Cart\\src\\Academy.Cart.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LUISGARC\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
