@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Academy.Cart.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f0be85065f6cb20d7e491ce4482d0f185d44627")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+437f6aaa186371d7afa8a1f0ae80ab4ad08083ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("Academy.Cart.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Academy.Cart.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

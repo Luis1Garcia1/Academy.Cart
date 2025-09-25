@@ -1,0 +1,16 @@
+C:\Users\LUISGARC\OneDrive - Capgemini\Documents\VSCodeProjects\Academy.Cart\src\Academy.Cart.Application\bin\Debug\net8.0\Academy.Cart.Application.deps.json
+C:\Users\LUISGARC\OneDrive - Capgemini\Documents\VSCodeProjects\Academy.Cart\src\Academy.Cart.Application\bin\Debug\net8.0\Academy.Cart.Application.dll
+C:\Users\LUISGARC\OneDrive - Capgemini\Documents\VSCodeProjects\Academy.Cart\src\Academy.Cart.Application\bin\Debug\net8.0\Academy.Cart.Application.pdb
+C:\Users\LUISGARC\OneDrive - Capgemini\Documents\VSCodeProjects\Academy.Cart\src\Academy.Cart.Application\bin\Debug\net8.0\Academy.Cart.Domain.dll
+C:\Users\LUISGARC\OneDrive - Capgemini\Documents\VSCodeProjects\Academy.Cart\src\Academy.Cart.Application\bin\Debug\net8.0\Academy.Cart.Domain.pdb
+C:\Users\LUISGARC\OneDrive - Capgemini\Documents\VSCodeProjects\Academy.Cart\src\Academy.Cart.Application\obj\Debug\net8.0\Academy.Cart.Application.csproj.AssemblyReference.cache
+C:\Users\LUISGARC\OneDrive - Capgemini\Documents\VSCodeProjects\Academy.Cart\src\Academy.Cart.Application\obj\Debug\net8.0\Academy.Cart.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUISGARC\OneDrive - Capgemini\Documents\VSCodeProjects\Academy.Cart\src\Academy.Cart.Application\obj\Debug\net8.0\Academy.Cart.Application.AssemblyInfoInputs.cache
+C:\Users\LUISGARC\OneDrive - Capgemini\Documents\VSCodeProjects\Academy.Cart\src\Academy.Cart.Application\obj\Debug\net8.0\Academy.Cart.Application.AssemblyInfo.cs
+C:\Users\LUISGARC\OneDrive - Capgemini\Documents\VSCodeProjects\Academy.Cart\src\Academy.Cart.Application\obj\Debug\net8.0\Academy.Cart.Application.csproj.CoreCompileInputs.cache
+C:\Users\LUISGARC\OneDrive - Capgemini\Documents\VSCodeProjects\Academy.Cart\src\Academy.Cart.Application\obj\Debug\net8.0\Academy.Cart.Application.sourcelink.json
+C:\Users\LUISGARC\OneDrive - Capgemini\Documents\VSCodeProjects\Academy.Cart\src\Academy.Cart.Application\obj\Debug\net8.0\Academy..E335492D.Up2Date
+C:\Users\LUISGARC\OneDrive - Capgemini\Documents\VSCodeProjects\Academy.Cart\src\Academy.Cart.Application\obj\Debug\net8.0\Academy.Cart.Application.dll
+C:\Users\LUISGARC\OneDrive - Capgemini\Documents\VSCodeProjects\Academy.Cart\src\Academy.Cart.Application\obj\Debug\net8.0\refint\Academy.Cart.Application.dll
+C:\Users\LUISGARC\OneDrive - Capgemini\Documents\VSCodeProjects\Academy.Cart\src\Academy.Cart.Application\obj\Debug\net8.0\Academy.Cart.Application.pdb
+C:\Users\LUISGARC\OneDrive - Capgemini\Documents\VSCodeProjects\Academy.Cart\src\Academy.Cart.Application\obj\Debug\net8.0\ref\Academy.Cart.Application.dll

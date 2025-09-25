@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("f5bb4295-c227-4c72-809c-19bcc99f7e35")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Academy.Cart.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f0be85065f6cb20d7e491ce4482d0f185d44627")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+437f6aaa186371d7afa8a1f0ae80ab4ad08083ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("Academy.Cart.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Academy.Cart.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

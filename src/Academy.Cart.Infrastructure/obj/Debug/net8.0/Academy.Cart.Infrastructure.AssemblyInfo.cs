@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Academy.Cart.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f0be85065f6cb20d7e491ce4482d0f185d44627")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6b773772e5fccf427b44455b12a5b76825c69f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Academy.Cart.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Academy.Cart.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
