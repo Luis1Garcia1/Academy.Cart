@@ -244,7 +244,7 @@
         },
         "runtime": {
           "Academy.Cart.Application.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -252,7 +252,7 @@
       "Academy.Cart.Domain/1.0.0": {
         "runtime": {
           "Academy.Cart.Domain.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -264,7 +264,7 @@
         },
         "runtime": {
           "Academy.Cart.Presentation.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

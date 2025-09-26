@@ -1,0 +1,46 @@
+[
+  {
+    "ContainingType": "Academy.Cart.Presentation.Modules.CartModules",
+    "Method": "CreateCustomer",
+    "RelativePath": "api/v1/cart/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Academy.Cart.Application.Cart.Commands.CreateCart.CreateCartCommandRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Academy.Cart.Presentation.Modules.CartModules",
+    "Method": "UpdateProducts",
+    "RelativePath": "api/v1/cart/updateProducts",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Academy.Cart.Application.Cart.Commands.UpdateCart.UpdateCartQuantityCommandRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
