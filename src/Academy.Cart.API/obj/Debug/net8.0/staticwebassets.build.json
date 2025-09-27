@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "W0L5v+/46S7aZOp3NyX/Ry+pYQSLvUCoVJBSgenhTQk=",
-  "Source": "Academy.Cart.API",
-  "BasePath": "_content/Academy.Cart.API",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"WEO+u5jwF2gwkVtbK1774XUbLuGbhgcc8QX36kmew2A=","Source":"Academy.Cart.API","BasePath":"_content/Academy.Cart.API","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

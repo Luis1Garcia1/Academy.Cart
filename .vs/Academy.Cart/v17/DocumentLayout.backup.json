@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abel\\Documents\\Programaci\u00F3n\\Net\\ApisDelProyecto\\ProyectoLuis(carritoDeCompras)\\Academy.Cart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4148C65A-26A0-4CBE-854E-C4C2153BE18D}|src\\Academy.Cart.Presentation\\Academy.Cart.Presentation.csproj|c:\\users\\abel\\documents\\programaci\u00F3n\\net\\apisdelproyecto\\proyectoluis(carritodecompras)\\academy.cart\\src\\academy.cart.presentation\\modules\\cartmodules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4148C65A-26A0-4CBE-854E-C4C2153BE18D}|src\\Academy.Cart.Presentation\\Academy.Cart.Presentation.csproj|solutionrelative:src\\academy.cart.presentation\\modules\\cartmodules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E538562-72EE-4FCD-AD0E-7913BB10CECE}|src\\Academy.Cart.Application\\Academy.Cart.Application.csproj|c:\\users\\abel\\documents\\programaci\u00F3n\\net\\apisdelproyecto\\proyectoluis(carritodecompras)\\academy.cart\\src\\academy.cart.application\\cart\\commands\\updatecart\\updatecartquantitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E538562-72EE-4FCD-AD0E-7913BB10CECE}|src\\Academy.Cart.Application\\Academy.Cart.Application.csproj|solutionrelative:src\\academy.cart.application\\cart\\commands\\updatecart\\updatecartquantitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E538562-72EE-4FCD-AD0E-7913BB10CECE}|src\\Academy.Cart.Application\\Academy.Cart.Application.csproj|c:\\users\\abel\\documents\\programaci\u00F3n\\net\\apisdelproyecto\\proyectoluis(carritodecompras)\\academy.cart\\src\\academy.cart.application\\cart\\commands\\updatecart\\updatecartquantitycommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E538562-72EE-4FCD-AD0E-7913BB10CECE}|src\\Academy.Cart.Application\\Academy.Cart.Application.csproj|solutionrelative:src\\academy.cart.application\\cart\\commands\\updatecart\\updatecartquantitycommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E538562-72EE-4FCD-AD0E-7913BB10CECE}|src\\Academy.Cart.Application\\Academy.Cart.Application.csproj|c:\\users\\abel\\documents\\programaci\u00F3n\\net\\apisdelproyecto\\proyectoluis(carritodecompras)\\academy.cart\\src\\academy.cart.application\\cart\\commands\\updatecart\\updatecartquantitycommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E538562-72EE-4FCD-AD0E-7913BB10CECE}|src\\Academy.Cart.Application\\Academy.Cart.Application.csproj|solutionrelative:src\\academy.cart.application\\cart\\commands\\updatecart\\updatecartquantitycommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E538562-72EE-4FCD-AD0E-7913BB10CECE}|src\\Academy.Cart.Application\\Academy.Cart.Application.csproj|c:\\users\\abel\\documents\\programaci\u00F3n\\net\\apisdelproyecto\\proyectoluis(carritodecompras)\\academy.cart\\src\\academy.cart.application\\cart\\commands\\updatecart\\updatecartquantitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E538562-72EE-4FCD-AD0E-7913BB10CECE}|src\\Academy.Cart.Application\\Academy.Cart.Application.csproj|solutionrelative:src\\academy.cart.application\\cart\\commands\\updatecart\\updatecartquantitycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4148C65A-26A0-4CBE-854E-C4C2153BE18D}|src\\Academy.Cart.Presentation\\Academy.Cart.Presentation.csproj|c:\\users\\abel\\documents\\programaci\u00F3n\\net\\apisdelproyecto\\proyectoluis(carritodecompras)\\academy.cart\\src\\academy.cart.presentation\\modules\\modulesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4148C65A-26A0-4CBE-854E-C4C2153BE18D}|src\\Academy.Cart.Presentation\\Academy.Cart.Presentation.csproj|solutionrelative:src\\academy.cart.presentation\\modules\\modulesconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartModules.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Documents\\Programaci\u00F3n\\Net\\ApisDelProyecto\\ProyectoLuis(carritoDeCompras)\\Academy.Cart\\src\\Academy.Cart.Presentation\\Modules\\CartModules.cs",
+              "RelativeDocumentMoniker": "src\\Academy.Cart.Presentation\\Modules\\CartModules.cs",
+              "ToolTip": "C:\\Users\\Abel\\Documents\\Programaci\u00F3n\\Net\\ApisDelProyecto\\ProyectoLuis(carritoDeCompras)\\Academy.Cart\\src\\Academy.Cart.Presentation\\Modules\\CartModules.cs",
+              "RelativeToolTip": "src\\Academy.Cart.Presentation\\Modules\\CartModules.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T17:07:54.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateCartQuantityCommandRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Documents\\Programaci\u00F3n\\Net\\ApisDelProyecto\\ProyectoLuis(carritoDeCompras)\\Academy.Cart\\src\\Academy.Cart.Application\\Cart\\Commands\\UpdateCart\\UpdateCartQuantityCommandRequest.cs",
+              "RelativeDocumentMoniker": "src\\Academy.Cart.Application\\Cart\\Commands\\UpdateCart\\UpdateCartQuantityCommandRequest.cs",
+              "ToolTip": "C:\\Users\\Abel\\Documents\\Programaci\u00F3n\\Net\\ApisDelProyecto\\ProyectoLuis(carritoDeCompras)\\Academy.Cart\\src\\Academy.Cart.Application\\Cart\\Commands\\UpdateCart\\UpdateCartQuantityCommandRequest.cs",
+              "RelativeToolTip": "src\\Academy.Cart.Application\\Cart\\Commands\\UpdateCart\\UpdateCartQuantityCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:25:44.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateCartQuantityCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Documents\\Programaci\u00F3n\\Net\\ApisDelProyecto\\ProyectoLuis(carritoDeCompras)\\Academy.Cart\\src\\Academy.Cart.Application\\Cart\\Commands\\UpdateCart\\UpdateCartQuantityCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Academy.Cart.Application\\Cart\\Commands\\UpdateCart\\UpdateCartQuantityCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Abel\\Documents\\Programaci\u00F3n\\Net\\ApisDelProyecto\\ProyectoLuis(carritoDeCompras)\\Academy.Cart\\src\\Academy.Cart.Application\\Cart\\Commands\\UpdateCart\\UpdateCartQuantityCommandHandler.cs",
+              "RelativeToolTip": "src\\Academy.Cart.Application\\Cart\\Commands\\UpdateCart\\UpdateCartQuantityCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:25:29.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateCartQuantityCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Documents\\Programaci\u00F3n\\Net\\ApisDelProyecto\\ProyectoLuis(carritoDeCompras)\\Academy.Cart\\src\\Academy.Cart.Application\\Cart\\Commands\\UpdateCart\\UpdateCartQuantityCommand.cs",
+              "RelativeDocumentMoniker": "src\\Academy.Cart.Application\\Cart\\Commands\\UpdateCart\\UpdateCartQuantityCommand.cs",
+              "ToolTip": "C:\\Users\\Abel\\Documents\\Programaci\u00F3n\\Net\\ApisDelProyecto\\ProyectoLuis(carritoDeCompras)\\Academy.Cart\\src\\Academy.Cart.Application\\Cart\\Commands\\UpdateCart\\UpdateCartQuantityCommand.cs",
+              "RelativeToolTip": "src\\Academy.Cart.Application\\Cart\\Commands\\UpdateCart\\UpdateCartQuantityCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:25:15.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModulesConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Documents\\Programaci\u00F3n\\Net\\ApisDelProyecto\\ProyectoLuis(carritoDeCompras)\\Academy.Cart\\src\\Academy.Cart.Presentation\\Modules\\ModulesConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Academy.Cart.Presentation\\Modules\\ModulesConfiguration.cs",
+              "ToolTip": "C:\\Users\\Abel\\Documents\\Programaci\u00F3n\\Net\\ApisDelProyecto\\ProyectoLuis(carritoDeCompras)\\Academy.Cart\\src\\Academy.Cart.Presentation\\Modules\\ModulesConfiguration.cs",
+              "RelativeToolTip": "src\\Academy.Cart.Presentation\\Modules\\ModulesConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T17:08:59.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateCartQuantityCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Abel\\Documents\\Programaci\u00F3n\\Net\\ApisDelProyecto\\ProyectoLuis(carritoDeCompras)\\Academy.Cart\\src\\Academy.Cart.Application\\Cart\\Commands\\UpdateCart\\UpdateCartQuantityCommandResponse.cs",
+              "RelativeDocumentMoniker": "src\\Academy.Cart.Application\\Cart\\Commands\\UpdateCart\\UpdateCartQuantityCommandResponse.cs",
+              "ToolTip": "C:\\Users\\Abel\\Documents\\Programaci\u00F3n\\Net\\ApisDelProyecto\\ProyectoLuis(carritoDeCompras)\\Academy.Cart\\src\\Academy.Cart.Application\\Cart\\Commands\\UpdateCart\\UpdateCartQuantityCommandResponse.cs",
+              "RelativeToolTip": "src\\Academy.Cart.Application\\Cart\\Commands\\UpdateCart\\UpdateCartQuantityCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T15:20:27.316Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

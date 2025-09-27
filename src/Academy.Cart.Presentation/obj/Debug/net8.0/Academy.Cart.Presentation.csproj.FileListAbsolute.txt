@@ -16,3 +16,21 @@ C:\Users\LUISGARC\OneDrive - Capgemini\Documents\VSCodeProjects\Academy.Cart\src
 C:\Users\LUISGARC\OneDrive - Capgemini\Documents\VSCodeProjects\Academy.Cart\src\Academy.Cart.Presentation\obj\Debug\net8.0\refint\Academy.Cart.Presentation.dll
 C:\Users\LUISGARC\OneDrive - Capgemini\Documents\VSCodeProjects\Academy.Cart\src\Academy.Cart.Presentation\obj\Debug\net8.0\Academy.Cart.Presentation.pdb
 C:\Users\LUISGARC\OneDrive - Capgemini\Documents\VSCodeProjects\Academy.Cart\src\Academy.Cart.Presentation\obj\Debug\net8.0\ref\Academy.Cart.Presentation.dll
+C:\Users\Abel\Documents\Programación\Net\ApisDelProyecto\ProyectoLuis(carritoDeCompras)\Academy.Cart\src\Academy.Cart.Presentation\bin\Debug\net8.0\Academy.Cart.Presentation.deps.json
+C:\Users\Abel\Documents\Programación\Net\ApisDelProyecto\ProyectoLuis(carritoDeCompras)\Academy.Cart\src\Academy.Cart.Presentation\bin\Debug\net8.0\Academy.Cart.Presentation.dll
+C:\Users\Abel\Documents\Programación\Net\ApisDelProyecto\ProyectoLuis(carritoDeCompras)\Academy.Cart\src\Academy.Cart.Presentation\bin\Debug\net8.0\Academy.Cart.Presentation.pdb
+C:\Users\Abel\Documents\Programación\Net\ApisDelProyecto\ProyectoLuis(carritoDeCompras)\Academy.Cart\src\Academy.Cart.Presentation\bin\Debug\net8.0\Academy.Cart.Application.dll
+C:\Users\Abel\Documents\Programación\Net\ApisDelProyecto\ProyectoLuis(carritoDeCompras)\Academy.Cart\src\Academy.Cart.Presentation\bin\Debug\net8.0\Academy.Cart.Domain.dll
+C:\Users\Abel\Documents\Programación\Net\ApisDelProyecto\ProyectoLuis(carritoDeCompras)\Academy.Cart\src\Academy.Cart.Presentation\bin\Debug\net8.0\Academy.Cart.Application.pdb
+C:\Users\Abel\Documents\Programación\Net\ApisDelProyecto\ProyectoLuis(carritoDeCompras)\Academy.Cart\src\Academy.Cart.Presentation\bin\Debug\net8.0\Academy.Cart.Domain.pdb
+C:\Users\Abel\Documents\Programación\Net\ApisDelProyecto\ProyectoLuis(carritoDeCompras)\Academy.Cart\src\Academy.Cart.Presentation\obj\Debug\net8.0\Academy.Cart.Presentation.csproj.AssemblyReference.cache
+C:\Users\Abel\Documents\Programación\Net\ApisDelProyecto\ProyectoLuis(carritoDeCompras)\Academy.Cart\src\Academy.Cart.Presentation\obj\Debug\net8.0\Academy.Cart.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel\Documents\Programación\Net\ApisDelProyecto\ProyectoLuis(carritoDeCompras)\Academy.Cart\src\Academy.Cart.Presentation\obj\Debug\net8.0\Academy.Cart.Presentation.AssemblyInfoInputs.cache
+C:\Users\Abel\Documents\Programación\Net\ApisDelProyecto\ProyectoLuis(carritoDeCompras)\Academy.Cart\src\Academy.Cart.Presentation\obj\Debug\net8.0\Academy.Cart.Presentation.AssemblyInfo.cs
+C:\Users\Abel\Documents\Programación\Net\ApisDelProyecto\ProyectoLuis(carritoDeCompras)\Academy.Cart\src\Academy.Cart.Presentation\obj\Debug\net8.0\Academy.Cart.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Documents\Programación\Net\ApisDelProyecto\ProyectoLuis(carritoDeCompras)\Academy.Cart\src\Academy.Cart.Presentation\obj\Debug\net8.0\Academy.Cart.Presentation.sourcelink.json
+C:\Users\Abel\Documents\Programación\Net\ApisDelProyecto\ProyectoLuis(carritoDeCompras)\Academy.Cart\src\Academy.Cart.Presentation\obj\Debug\net8.0\Academy..1A06C2D4.Up2Date
+C:\Users\Abel\Documents\Programación\Net\ApisDelProyecto\ProyectoLuis(carritoDeCompras)\Academy.Cart\src\Academy.Cart.Presentation\obj\Debug\net8.0\Academy.Cart.Presentation.dll
+C:\Users\Abel\Documents\Programación\Net\ApisDelProyecto\ProyectoLuis(carritoDeCompras)\Academy.Cart\src\Academy.Cart.Presentation\obj\Debug\net8.0\refint\Academy.Cart.Presentation.dll
+C:\Users\Abel\Documents\Programación\Net\ApisDelProyecto\ProyectoLuis(carritoDeCompras)\Academy.Cart\src\Academy.Cart.Presentation\obj\Debug\net8.0\Academy.Cart.Presentation.pdb
+C:\Users\Abel\Documents\Programación\Net\ApisDelProyecto\ProyectoLuis(carritoDeCompras)\Academy.Cart\src\Academy.Cart.Presentation\obj\Debug\net8.0\ref\Academy.Cart.Presentation.dll
